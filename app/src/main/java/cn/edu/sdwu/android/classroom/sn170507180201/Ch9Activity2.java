@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Ch9Activity2 extends AppCompatActivity {
-    private ArrayList category;//类别 属于第一级数据
+    private ArrayList category;//类别 是属于第一级数据
     private HashMap product;
     // hashmap快速找到商品
     // 第二级数据产品

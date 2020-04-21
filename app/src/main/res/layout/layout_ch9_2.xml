@@ -9,6 +9,7 @@
         android:id="@+id/ch9_2_elv"
         android:layout_height="match_parent">
 
+
     </ExpandableListView>
 
 </LinearLayout>

@@ -16,7 +16,7 @@ public class Ch8Activity1 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        //用编码方式实现布
+        //先用编码方式实现布
         FrameLayout frameLayout=new FrameLayout(this);
         frameLayout.setLayoutParams(new FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
 
